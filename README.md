@@ -10,4 +10,6 @@
  - checksumfile (С and TCL)
  
  - diagFeed (TCL) диаграмма УП для Н33
+
+ - readFileBuf (TCL and BC) - буффер чтения файла УП.
  
